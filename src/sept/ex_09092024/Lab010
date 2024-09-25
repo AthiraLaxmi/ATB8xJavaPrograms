@@ -1,0 +1,13 @@
+package sept.ex_09092024;
+
+public class Lab1001 {
+
+    public static void main(String[] args) {
+        //Keywords
+        //Reserve Words
+        //Simple English - pre-defined words in java
+        //They appear in blue in intellij (for me it appears in orange color)
+        //eg: package, public, class,static,void
+        //all of them are in lower case
+    }
+}
