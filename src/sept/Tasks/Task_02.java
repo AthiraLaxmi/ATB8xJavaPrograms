@@ -1,6 +1,7 @@
-package sept.Task;
+package sept.Tasks;
 
 public class Task_02 {
+
     public static void main(String[] args) {
         double a = 34;
         double b = 10;

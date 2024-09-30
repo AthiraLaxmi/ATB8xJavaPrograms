@@ -1,6 +1,6 @@
-package sept.Task;
+package sept.Tasks;
 
-public class Task_01_Printtableof2 {
+public class Task_01 {
     public static void main(String[] args) {
         // write a program to print the table of number which user will give (int num 10)
 
@@ -27,5 +27,6 @@ public class Task_01_Printtableof2 {
         System.out.printf("%d * %d= %d",num,10,num*10);
         System.out.println();
     }
+
 
 }
